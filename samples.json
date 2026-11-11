@@ -1,0 +1,789 @@
+{
+  "seed": 20261111,
+  "languages": [
+    {
+      "dataset": "AISHELL3",
+      "zh": "普通话",
+      "en": "Mandarin",
+      "pool": 300,
+      "samples": [
+        {
+          "id": "SSB14570289",
+          "number": 1,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/AISHELL3/original/SSB14570289.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 102305,
+              "duration": 6.3940625
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/AISHELL3/ds640/SSB14570289.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 102305,
+              "duration": 6.3940625
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/AISHELL3/ds640-g/SSB14570289.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 102305,
+              "duration": 6.3940625
+            }
+          ]
+        },
+        {
+          "id": "SSB12180247",
+          "number": 2,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/AISHELL3/original/SSB12180247.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 81200,
+              "duration": 5.075
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/AISHELL3/ds640/SSB12180247.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 81200,
+              "duration": 5.075
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/AISHELL3/ds640-g/SSB12180247.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 81200,
+              "duration": 5.075
+            }
+          ]
+        },
+        {
+          "id": "SSB13400438",
+          "number": 3,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/AISHELL3/original/SSB13400438.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 106145,
+              "duration": 6.6340625
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/AISHELL3/ds640/SSB13400438.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 106145,
+              "duration": 6.6340625
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/AISHELL3/ds640-g/SSB13400438.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 106145,
+              "duration": 6.6340625
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dataset": "MDCC",
+      "zh": "粤语",
+      "en": "Cantonese",
+      "pool": 300,
+      "samples": [
+        {
+          "id": "447_1709172219_73898_97.36_102.79",
+          "number": 1,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/MDCC/original/447_1709172219_73898_97.36_102.79.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 86880,
+              "duration": 5.43
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/MDCC/ds640/447_1709172219_73898_97.36_102.79.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 86880,
+              "duration": 5.43
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/MDCC/ds640-g/447_1709172219_73898_97.36_102.79.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 86880,
+              "duration": 5.43
+            }
+          ]
+        },
+        {
+          "id": "447_1810221351_17195_669.76_676.54",
+          "number": 2,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/MDCC/original/447_1810221351_17195_669.76_676.54.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 108480,
+              "duration": 6.78
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/MDCC/ds640/447_1810221351_17195_669.76_676.54.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 108480,
+              "duration": 6.78
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/MDCC/ds640-g/447_1810221351_17195_669.76_676.54.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 108480,
+              "duration": 6.78
+            }
+          ]
+        },
+        {
+          "id": "447_1803291600_57737_226.62_232.4",
+          "number": 3,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/MDCC/original/447_1803291600_57737_226.62_232.4.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 92480,
+              "duration": 5.78
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/MDCC/ds640/447_1803291600_57737_226.62_232.4.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 92480,
+              "duration": 5.78
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/MDCC/ds640-g/447_1803291600_57737_226.62_232.4.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 92480,
+              "duration": 5.78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dataset": "Teochew-wild",
+      "zh": "潮州话",
+      "en": "Teochew",
+      "pool": 300,
+      "samples": [
+        {
+          "id": "S019F011C012",
+          "number": 1,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/Teochew-wild/original/S019F011C012.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 98608,
+              "duration": 6.163
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/Teochew-wild/ds640/S019F011C012.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 98608,
+              "duration": 6.163
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/Teochew-wild/ds640-g/S019F011C012.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 98608,
+              "duration": 6.163
+            }
+          ]
+        },
+        {
+          "id": "S005F008C002",
+          "number": 2,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/Teochew-wild/original/S005F008C002.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 96673,
+              "duration": 6.0420625
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/Teochew-wild/ds640/S005F008C002.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 96673,
+              "duration": 6.0420625
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/Teochew-wild/ds640-g/S005F008C002.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 96673,
+              "duration": 6.0420625
+            }
+          ]
+        },
+        {
+          "id": "S009F002C020",
+          "number": 3,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/Teochew-wild/original/S009F002C020.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 77964,
+              "duration": 4.87275
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/Teochew-wild/ds640/S009F002C020.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 77964,
+              "duration": 4.87275
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/Teochew-wild/ds640-g/S009F002C020.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 77964,
+              "duration": 4.87275
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dataset": "LibriTTS",
+      "zh": "英语",
+      "en": "English",
+      "pool": 300,
+      "samples": [
+        {
+          "id": "1320_122612_000029_000000",
+          "number": 1,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/LibriTTS/original/1320_122612_000029_000000.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 105600,
+              "duration": 6.6
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/LibriTTS/ds640/1320_122612_000029_000000.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 105600,
+              "duration": 6.6
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/LibriTTS/ds640-g/1320_122612_000029_000000.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 105600,
+              "duration": 6.6
+            }
+          ]
+        },
+        {
+          "id": "121_127105_000036_000003",
+          "number": 2,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/LibriTTS/original/121_127105_000036_000003.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 91200,
+              "duration": 5.7
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/LibriTTS/ds640/121_127105_000036_000003.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 91200,
+              "duration": 5.7
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/LibriTTS/ds640-g/121_127105_000036_000003.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 91200,
+              "duration": 5.7
+            }
+          ]
+        },
+        {
+          "id": "7176_88083_000018_000000",
+          "number": 3,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/LibriTTS/original/7176_88083_000018_000000.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 96000,
+              "duration": 6.0
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/LibriTTS/ds640/7176_88083_000018_000000.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 96000,
+              "duration": 6.0
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/LibriTTS/ds640-g/7176_88083_000018_000000.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 96000,
+              "duration": 6.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dataset": "JVS",
+      "zh": "日语",
+      "en": "Japanese",
+      "pool": 300,
+      "samples": [
+        {
+          "id": "TRAVEL1000_0659",
+          "number": 1,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/JVS/original/TRAVEL1000_0659.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 67928,
+              "duration": 4.2455
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/JVS/ds640/TRAVEL1000_0659.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 67928,
+              "duration": 4.2455
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/JVS/ds640-g/TRAVEL1000_0659.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 67928,
+              "duration": 4.2455
+            }
+          ]
+        },
+        {
+          "id": "BASIC5000_2517",
+          "number": 2,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/JVS/original/BASIC5000_2517.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 80418,
+              "duration": 5.026125
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/JVS/ds640/BASIC5000_2517.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 80418,
+              "duration": 5.026125
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/JVS/ds640-g/BASIC5000_2517.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 80418,
+              "duration": 5.026125
+            }
+          ]
+        },
+        {
+          "id": "BASIC5000_1474",
+          "number": 3,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/JVS/original/BASIC5000_1474.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 72498,
+              "duration": 4.531125
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/JVS/ds640/BASIC5000_1474.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 72498,
+              "duration": 4.531125
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/JVS/ds640-g/BASIC5000_1474.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 72498,
+              "duration": 4.531125
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dataset": "CML-TTS-Italian",
+      "zh": "意大利语",
+      "en": "Italian",
+      "pool": 300,
+      "samples": [
+        {
+          "id": "4971_4125_000174-0004",
+          "number": 1,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/CML-TTS-Italian/original/4971_4125_000174-0004.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 97280,
+              "duration": 6.08
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/CML-TTS-Italian/ds640/4971_4125_000174-0004.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 97280,
+              "duration": 6.08
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/CML-TTS-Italian/ds640-g/4971_4125_000174-0004.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 97280,
+              "duration": 6.08
+            }
+          ]
+        },
+        {
+          "id": "5014_4125_000155-0003",
+          "number": 2,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/CML-TTS-Italian/original/5014_4125_000155-0003.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 93440,
+              "duration": 5.84
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/CML-TTS-Italian/ds640/5014_4125_000155-0003.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 93440,
+              "duration": 5.84
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/CML-TTS-Italian/ds640-g/5014_4125_000155-0003.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 93440,
+              "duration": 5.84
+            }
+          ]
+        },
+        {
+          "id": "1447_4125_000041-0002",
+          "number": 3,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/CML-TTS-Italian/original/1447_4125_000041-0002.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 83200,
+              "duration": 5.2
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/CML-TTS-Italian/ds640/1447_4125_000041-0002.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 83200,
+              "duration": 5.2
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/CML-TTS-Italian/ds640-g/1447_4125_000041-0002.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 83200,
+              "duration": 5.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dataset": "CML-TTS-Dutch",
+      "zh": "荷兰语",
+      "en": "Dutch",
+      "pool": 300,
+      "samples": [
+        {
+          "id": "4396_4370_000026",
+          "number": 1,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/CML-TTS-Dutch/original/4396_4370_000026.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 168320,
+              "duration": 10.52
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/CML-TTS-Dutch/ds640/4396_4370_000026.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 168320,
+              "duration": 10.52
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/CML-TTS-Dutch/ds640-g/4396_4370_000026.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 168320,
+              "duration": 10.52
+            }
+          ]
+        },
+        {
+          "id": "4429_3991_000893-0004",
+          "number": 2,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/CML-TTS-Dutch/original/4429_3991_000893-0004.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 68480,
+              "duration": 4.28
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/CML-TTS-Dutch/ds640/4429_3991_000893-0004.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 68480,
+              "duration": 4.28
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/CML-TTS-Dutch/ds640-g/4429_3991_000893-0004.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 68480,
+              "duration": 4.28
+            }
+          ]
+        },
+        {
+          "id": "3798_4626_000515-0002",
+          "number": 3,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/CML-TTS-Dutch/original/3798_4626_000515-0002.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 131840,
+              "duration": 8.24
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/CML-TTS-Dutch/ds640/3798_4626_000515-0002.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 131840,
+              "duration": 8.24
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/CML-TTS-Dutch/ds640-g/3798_4626_000515-0002.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 131840,
+              "duration": 8.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dataset": "FLEURS-R-Arabic",
+      "zh": "阿拉伯语",
+      "en": "Arabic",
+      "pool": 300,
+      "samples": [
+        {
+          "id": "12097559784550017261",
+          "number": 1,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/FLEURS-R-Arabic/original/12097559784550017261.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 218880,
+              "duration": 13.68
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/FLEURS-R-Arabic/ds640/12097559784550017261.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 218880,
+              "duration": 13.68
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/FLEURS-R-Arabic/ds640-g/12097559784550017261.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 218880,
+              "duration": 13.68
+            }
+          ]
+        },
+        {
+          "id": "15792857715959633312",
+          "number": 2,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/FLEURS-R-Arabic/original/15792857715959633312.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 160000,
+              "duration": 10.0
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/FLEURS-R-Arabic/ds640/15792857715959633312.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 160000,
+              "duration": 10.0
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/FLEURS-R-Arabic/ds640-g/15792857715959633312.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 160000,
+              "duration": 10.0
+            }
+          ]
+        },
+        {
+          "id": "12192152626928773970",
+          "number": 3,
+          "audio": [
+            {
+              "kind": "original",
+              "src": "audio/FLEURS-R-Arabic/original/12192152626928773970.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 97920,
+              "duration": 6.12
+            },
+            {
+              "kind": "ds640",
+              "src": "audio/FLEURS-R-Arabic/ds640/12192152626928773970.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 97920,
+              "duration": 6.12
+            },
+            {
+              "kind": "ds640-g",
+              "src": "audio/FLEURS-R-Arabic/ds640-g/12192152626928773970.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 97920,
+              "duration": 6.12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
