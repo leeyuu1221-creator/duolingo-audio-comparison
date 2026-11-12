@@ -34,6 +34,24 @@
               "channels": 1,
               "frames": 102305,
               "duration": 6.3940625
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/AISHELL3/focal-162/SSB14570289.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 102400,
+              "duration": 6.4
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/AISHELL3/focal-325/SSB14570289.wav",
+              "bitrate": 325,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 102400,
+              "duration": 6.4
             }
           ]
         },
@@ -64,6 +82,24 @@
               "channels": 1,
               "frames": 81200,
               "duration": 5.075
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/AISHELL3/focal-162/SSB12180247.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 81920,
+              "duration": 5.12
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/AISHELL3/focal-325/SSB12180247.wav",
+              "bitrate": 325,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 81280,
+              "duration": 5.08
             }
           ]
         },
@@ -94,6 +130,24 @@
               "channels": 1,
               "frames": 106145,
               "duration": 6.6340625
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/AISHELL3/focal-162/SSB13400438.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 106240,
+              "duration": 6.64
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/AISHELL3/focal-325/SSB13400438.wav",
+              "bitrate": 325,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 106240,
+              "duration": 6.64
             }
           ]
         }
@@ -132,6 +186,24 @@
               "channels": 1,
               "frames": 86880,
               "duration": 5.43
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/MDCC/focal-162/447_1709172219_73898_97.36_102.79.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 87040,
+              "duration": 5.44
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/MDCC/focal-325/447_1709172219_73898_97.36_102.79.wav",
+              "bitrate": 325,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 87040,
+              "duration": 5.44
             }
           ]
         },
@@ -162,6 +234,24 @@
               "channels": 1,
               "frames": 108480,
               "duration": 6.78
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/MDCC/focal-162/447_1810221351_17195_669.76_676.54.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 108800,
+              "duration": 6.8
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/MDCC/focal-325/447_1810221351_17195_669.76_676.54.wav",
+              "bitrate": 325,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 108160,
+              "duration": 6.76
             }
           ]
         },
@@ -192,6 +282,24 @@
               "channels": 1,
               "frames": 92480,
               "duration": 5.78
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/MDCC/focal-162/447_1803291600_57737_226.62_232.4.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 92160,
+              "duration": 5.76
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/MDCC/focal-325/447_1803291600_57737_226.62_232.4.wav",
+              "bitrate": 325,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 92160,
+              "duration": 5.76
             }
           ]
         }
@@ -230,6 +338,24 @@
               "channels": 1,
               "frames": 98608,
               "duration": 6.163
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/Teochew-wild/focal-162/S019F011C012.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 98560,
+              "duration": 6.16
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/Teochew-wild/focal-325/S019F011C012.wav",
+              "bitrate": 325,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 98560,
+              "duration": 6.16
             }
           ]
         },
@@ -260,6 +386,24 @@
               "channels": 1,
               "frames": 96673,
               "duration": 6.0420625
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/Teochew-wild/focal-162/S005F008C002.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 97280,
+              "duration": 6.08
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/Teochew-wild/focal-325/S005F008C002.wav",
+              "bitrate": 325,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 96640,
+              "duration": 6.04
             }
           ]
         },
@@ -290,6 +434,24 @@
               "channels": 1,
               "frames": 77964,
               "duration": 4.87275
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/Teochew-wild/focal-162/S009F002C020.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 78080,
+              "duration": 4.88
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/Teochew-wild/focal-325/S009F002C020.wav",
+              "bitrate": 325,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 78080,
+              "duration": 4.88
             }
           ]
         }
@@ -328,6 +490,24 @@
               "channels": 1,
               "frames": 105600,
               "duration": 6.6
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/LibriTTS/focal-162/1320_122612_000029_000000.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 106240,
+              "duration": 6.64
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/LibriTTS/focal-325/1320_122612_000029_000000.wav",
+              "bitrate": 325,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 105600,
+              "duration": 6.6
             }
           ]
         },
@@ -358,6 +538,24 @@
               "channels": 1,
               "frames": 91200,
               "duration": 5.7
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/LibriTTS/focal-162/121_127105_000036_000003.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 90880,
+              "duration": 5.68
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/LibriTTS/focal-325/121_127105_000036_000003.wav",
+              "bitrate": 325,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 90880,
+              "duration": 5.68
             }
           ]
         },
@@ -384,6 +582,24 @@
             {
               "kind": "ds640-g",
               "src": "audio/LibriTTS/ds640-g/7176_88083_000018_000000.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 96000,
+              "duration": 6.0
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/LibriTTS/focal-162/7176_88083_000018_000000.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 96000,
+              "duration": 6.0
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/LibriTTS/focal-325/7176_88083_000018_000000.wav",
+              "bitrate": 325,
               "rate": 16000,
               "channels": 1,
               "frames": 96000,
@@ -426,6 +642,24 @@
               "channels": 1,
               "frames": 67928,
               "duration": 4.2455
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/JVS/focal-162/TRAVEL1000_0659.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 67840,
+              "duration": 4.24
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/JVS/focal-325/TRAVEL1000_0659.wav",
+              "bitrate": 325,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 67840,
+              "duration": 4.24
             }
           ]
         },
@@ -456,6 +690,24 @@
               "channels": 1,
               "frames": 80418,
               "duration": 5.026125
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/JVS/focal-162/BASIC5000_2517.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 80640,
+              "duration": 5.04
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/JVS/focal-325/BASIC5000_2517.wav",
+              "bitrate": 325,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 80640,
+              "duration": 5.04
             }
           ]
         },
@@ -486,6 +738,24 @@
               "channels": 1,
               "frames": 72498,
               "duration": 4.531125
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/JVS/focal-162/BASIC5000_1474.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 72960,
+              "duration": 4.56
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/JVS/focal-325/BASIC5000_1474.wav",
+              "bitrate": 325,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 72320,
+              "duration": 4.52
             }
           ]
         }
@@ -524,6 +794,24 @@
               "channels": 1,
               "frames": 97280,
               "duration": 6.08
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/CML-TTS-Italian/focal-162/4971_4125_000174-0004.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 97280,
+              "duration": 6.08
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/CML-TTS-Italian/focal-325/4971_4125_000174-0004.wav",
+              "bitrate": 325,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 97280,
+              "duration": 6.08
             }
           ]
         },
@@ -554,6 +842,24 @@
               "channels": 1,
               "frames": 93440,
               "duration": 5.84
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/CML-TTS-Italian/focal-162/5014_4125_000155-0003.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 93440,
+              "duration": 5.84
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/CML-TTS-Italian/focal-325/5014_4125_000155-0003.wav",
+              "bitrate": 325,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 93440,
+              "duration": 5.84
             }
           ]
         },
@@ -580,6 +886,24 @@
             {
               "kind": "ds640-g",
               "src": "audio/CML-TTS-Italian/ds640-g/1447_4125_000041-0002.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 83200,
+              "duration": 5.2
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/CML-TTS-Italian/focal-162/1447_4125_000041-0002.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 83200,
+              "duration": 5.2
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/CML-TTS-Italian/focal-325/1447_4125_000041-0002.wav",
+              "bitrate": 325,
               "rate": 16000,
               "channels": 1,
               "frames": 83200,
@@ -622,6 +946,24 @@
               "channels": 1,
               "frames": 168320,
               "duration": 10.52
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/CML-TTS-Dutch/focal-162/4396_4370_000026.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 168960,
+              "duration": 10.56
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/CML-TTS-Dutch/focal-325/4396_4370_000026.wav",
+              "bitrate": 325,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 168320,
+              "duration": 10.52
             }
           ]
         },
@@ -652,6 +994,24 @@
               "channels": 1,
               "frames": 68480,
               "duration": 4.28
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/CML-TTS-Dutch/focal-162/4429_3991_000893-0004.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 69120,
+              "duration": 4.32
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/CML-TTS-Dutch/focal-325/4429_3991_000893-0004.wav",
+              "bitrate": 325,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 68480,
+              "duration": 4.28
             }
           ]
         },
@@ -678,6 +1038,24 @@
             {
               "kind": "ds640-g",
               "src": "audio/CML-TTS-Dutch/ds640-g/3798_4626_000515-0002.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 131840,
+              "duration": 8.24
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/CML-TTS-Dutch/focal-162/3798_4626_000515-0002.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 131840,
+              "duration": 8.24
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/CML-TTS-Dutch/focal-325/3798_4626_000515-0002.wav",
+              "bitrate": 325,
               "rate": 16000,
               "channels": 1,
               "frames": 131840,
@@ -720,6 +1098,24 @@
               "channels": 1,
               "frames": 218880,
               "duration": 13.68
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/FLEURS-R-Arabic/focal-162/12097559784550017261.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 218880,
+              "duration": 13.68
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/FLEURS-R-Arabic/focal-325/12097559784550017261.wav",
+              "bitrate": 325,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 218880,
+              "duration": 13.68
             }
           ]
         },
@@ -750,6 +1146,24 @@
               "channels": 1,
               "frames": 160000,
               "duration": 10.0
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/FLEURS-R-Arabic/focal-162/15792857715959633312.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 160000,
+              "duration": 10.0
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/FLEURS-R-Arabic/focal-325/15792857715959633312.wav",
+              "bitrate": 325,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 160000,
+              "duration": 10.0
             }
           ]
         },
@@ -776,6 +1190,24 @@
             {
               "kind": "ds640-g",
               "src": "audio/FLEURS-R-Arabic/ds640-g/12192152626928773970.wav",
+              "rate": 16000,
+              "channels": 1,
+              "frames": 97920,
+              "duration": 6.12
+            },
+            {
+              "kind": "focal-162",
+              "src": "audio/FLEURS-R-Arabic/focal-162/12192152626928773970.wav",
+              "bitrate": 162,
+              "rate": 16000,
+              "channels": 1,
+              "frames": 98560,
+              "duration": 6.16
+            },
+            {
+              "kind": "focal-325",
+              "src": "audio/FLEURS-R-Arabic/focal-325/12192152626928773970.wav",
+              "bitrate": 325,
               "rate": 16000,
               "channels": 1,
               "frames": 97920,
